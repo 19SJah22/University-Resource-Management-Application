@@ -1,1 +1,1 @@
-# University-Resource-Management-Application
+The University Resource Management Application is a comprehensive Java-based solution designed to centralize and streamline the processes of managing academic resources within a university setting. Instead of just focusing on schools, this system encompasses various departments, courses, faculty members, and students across a university.
